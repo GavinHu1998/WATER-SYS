@@ -1,0 +1,103 @@
+PRECISION WATER SYSTEMS — PWS STREAM KNOWLEDGE BASE
+
+SCOPE
+This file contains only information relevant to the PWS Stream manual water distiller. Do not use information about other Precision models in this prototype.
+
+PRODUCT
+Product name: PWS Stream Manual Water Distiller.
+Product description: The PWS Stream is a manual water distiller intended for home use, a small office, or a family. It uses distillation combined with a high-capacity activated carbon filter to produce distilled water.
+
+CAPACITY AND STORAGE
+- Distilling capacity: 8.0 US gallons (30.0 L) per 24 hours under optimum conditions.
+- The product page describes an 8 gallon/day boiling tank.
+- Optional storage tank capacity: 3.0 US gallons (11.4 L).
+- When manually filled, the distiller will distill approximately one gallon of pure water before automatically shutting off.
+- Performance depends on conditions including water temperature, ambient temperature, line voltage, boiling tank cleanliness, and boiler fill level. Specifications may change without notice.
+
+DIMENSIONS AND WEIGHT
+Page 3 specifications:
+- Height: 13 1/2 inches / 34.3 cm.
+- Width: 17 1/2 inches / 43.8 cm.
+- Depth: 10 5/8 inches / 27.0 cm.
+- Weight: 25 lb / 11 kg.
+
+Page 4 product information gives approximately:
+- Distilling capacity: 8.0 US gal (30.0 L) / 24 hrs.
+- Storage tank capacity: 3.0 US gal (11.4 L).
+- Shipping weight: 25 lb (11.0 kg).
+
+ELECTRICAL SPECIFICATIONS
+120V model:
+- 120V
+- 9.2 amps
+- 60 Hz
+- 1100 watts
+
+220V model:
+- 220V
+- 5.0 amps
+- 50/60 Hz
+- 1100 watts
+- 220V models are for international 220V countries only.
+- 220V models are not CSA/UL certified.
+
+CERTIFICATION
+- Precision documentation states that applicable units are CSA/UL certified under Class Number C2831-83 and C2831-53.
+- The documentation specifically states that certifications apply to 120V models only and are not available for 220V units.
+
+CONSTRUCTION AND FEATURES
+- High-grade stainless-steel construction, including the storage tank faucet.
+- High-grade stainless-steel refillable charcoal filter canister.
+- Highly efficient stainless-steel finned coil.
+- Seal-protected switching.
+- Large 5-inch boiling tank opening.
+- Large lid opening and a V-bottom boiler make maintenance easier.
+- Stainless pure-water faucet is available on the optional holding tank.
+- High-quality power and fan switches.
+- Float switch shuts the distiller off when the water level is low.
+- Optional 3-gallon manual storage tank is available for the Stream model.
+
+DISTILLATION PROCESS
+- Raw or tap water is heated and brought to a boil.
+- Pure steam rises from the boiling water.
+- The steam enters a baffle system that directs the steam toward the cooling coil.
+- As steam enters the cooling coil, a gas vent releases volatile gases from the coil.
+- The cooling coil condenses the steam into water.
+- The distilled water is combined with a high-capacity activated carbon filtration stage.
+
+OPERATION
+- The PWS Stream is manually filled.
+- When manually filled, it distills approximately one gallon of pure water before automatically shutting off.
+- The float switch shuts the distiller off when the water level is low.
+
+FILTER
+- The product uses a high-grade stainless-steel refillable charcoal filter canister.
+- The documentation describes activated carbon filtration as part of the water purification process.
+- The general product documentation describes stainless-steel charcoal filter housing and no plastic filter housing.
+- Do not invent a filter replacement interval for the Stream unless explicitly supported by the Stream documentation.
+
+MAINTENANCE / CLEANING
+- The large 5-inch boiling tank opening and V-bottom boiler are designed to make maintenance easier.
+- Boiling tank cleanliness affects performance.
+- The documentation does not provide a complete step-by-step cleaning procedure in the supplied pages. If asked for a specific cleaning chemical, exact concentration, or detailed cleaning procedure that is not explicitly documented here, say that the provided documentation does not contain enough information and recommend contacting Precision's service/sales team.
+
+WARRANTY
+- 2-year warranty on parts / select parts as described in the supplied documentation.
+- 15-year pro-rated warranty on stainless steel.
+- Do not invent warranty exclusions or claim procedures not included in this knowledge base.
+
+BENEFITS / USES
+- The documentation describes the PWS Stream as providing steam-distilled drinking water and combining distillation with high-capacity activated carbon filtration.
+- The documentation says distilled water can be used for drinking and can be suitable for uses such as cooking, ice makers, humidifiers, pet hydration, and other applications.
+- Avoid making medical or health claims that are not explicitly supported by the supplied documentation.
+
+COMPANY
+Manufactured by: Precision Design & Manufacturing Inc.
+Address: 9020 100 St, Westlock, Alberta T7P 2L4.
+Email: info@precisioncanada.com.
+Website: precisionwatersystems.ca.
+
+IMPORTANT LIMITATIONS
+- This prototype is specifically for PWS Stream.
+- Do not answer using specifications from River, Lake, Gulf, or Sea.
+- If a user asks for information that is not contained in this file, state the limitation rather than guessing.
